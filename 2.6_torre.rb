@@ -1,3 +1,5 @@
+# Construa uma torre em forma de pirâmide dado um número inteiro positivo de andares. Um bloco de torre é representado com o caractere "*".
+
 print ("Escreva um número. Essa será a quantidade de andares de sua torre: ")
 
 rows = gets.chomp.to_i
